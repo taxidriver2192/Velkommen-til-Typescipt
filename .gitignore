@@ -2,6 +2,7 @@
 node_modules/
 *.log
 .idea
+dist/
 .vscode
 .eslintcache
 package-lock.json
